@@ -27,6 +27,10 @@
   <g clip-path="url(#canto)">
     <rect width="1200" height="340" fill="url(#ceu)"/>
 
+    <g opacity="0.9">
+      <circle cx="150" cy="72" r="34" fill="#F7D98B" opacity="0.25"/>
+      <circle cx="150" cy="72" r="22" fill="#F4C865"/>
+    </g>
     <!-- montanhas ao fundo -->
     <path d="M0 230 C120 190 210 205 300 180 C390 155 470 200 560 185 C650 170 720 140 820 165 C920 190 1010 150 1100 170 C1150 180 1180 175 1200 172 L1200 340 L0 340 Z" fill="url(#m1)" opacity="0.75"/>
 

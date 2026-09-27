@@ -20,13 +20,14 @@
 
 <h2 align="center">🙋‍♀️ Sobre mim</h2>
 
-Oi! Sou a **Méroli**, trabalho com **Recursos Humanos** em Florianópolis e construo as ferramentas que eu mesma queria ter no dia a dia do RH.
-Conheço a rotina por dentro, da folha e do ponto até a rescisão e a CCT, e transformo isso em sistema que colaborador, gestor e RH usam de verdade.
+<p align="center">Oi! Sou a <b>Méroli</b>, trabalho com <b>Recursos Humanos</b> em Florianópolis e construo as ferramentas que eu mesma queria ter no dia a dia do RH. Conheço a rotina por dentro, da folha e do ponto até a rescisão e a CCT, e transformo isso em sistema que colaborador, gestor e RH usam de verdade.</p>
 
-- 🌱 Criando o **Rooten**, um portal de RH completo para empresas com várias unidades
-- 📋 Rotinas de folha, admissão, desligamento, férias e benefícios
-- 🧠 Clima organizacional, riscos psicossociais (NR-1) e segurança do trabalho
-- ⚙️ Automação com Cloudflare Workers, Google Apps Script e Python
+<p align="center">
+🌱 Criando o <b>Rooten</b>, um portal de RH completo para empresas com várias unidades<br>
+📋 Rotinas de folha, admissão, desligamento, férias e benefícios<br>
+🧠 Clima organizacional, riscos psicossociais (NR-1) e segurança do trabalho<br>
+⚙️ Automação com Cloudflare Workers, Google Apps Script e Python
+</p>
 
 ---
 
@@ -45,16 +46,28 @@ Conheço a rotina por dentro, da folha e do ponto até a rescisão e a CCT, e tr
   <img src="img/vagas.png" width="70%" alt="Página pública de vagas">
 </p>
 
-| 👤 Colaborador | 🧑‍💼 Gestor | 🛡️ RH |
-|---|---|---|
-| Mural de comunicados | Admissão CLT, PJ e estágio | Caixa de solicitações |
-| Ficha admissional online | Férias, afastamento, adiantamento | Recrutamento em Kanban |
-| Canal de denúncia anônimo | Medidas disciplinares e distrato | Dashboard de clima |
-| Pesquisa de clima e riscos NR-1 | Feedback por áudio → texto com IA | Motor trabalhista e auditoria |
-| Atestado e pedido de demissão | Ficha dos subordinados | Envio para a contabilidade |
-| Vagas e banco de talentos | | Gestores e permissões |
+<div align="center">
+<table>
+  <tr><th>👤 Colaborador</th><th>🧑‍💼 Gestor</th><th>🛡️ RH</th></tr>
+  <tr><td>Mural de comunicados</td><td>Admissão CLT, PJ e estágio</td><td>Caixa de solicitações</td></tr>
+  <tr><td>Ficha admissional online</td><td>Férias, afastamento, adiantamento</td><td>Recrutamento em Kanban</td></tr>
+  <tr><td>Canal de denúncia anônimo</td><td>Medidas disciplinares e distrato</td><td>Dashboard de clima</td></tr>
+  <tr><td>Pesquisa de clima e riscos NR-1</td><td>Feedback por áudio → texto com IA</td><td>Motor trabalhista e auditoria</td></tr>
+  <tr><td>Atestado e pedido de demissão</td><td>Ficha dos subordinados</td><td>Envio para a contabilidade</td></tr>
+  <tr><td>Vagas e banco de talentos</td><td></td><td>Gestores e permissões</td></tr>
+</table>
+</div>
 
 <p align="center"><sub>Em português, francês e espanhol · modo escuro · o código-fonte é licenciado e fica em repositório privado</sub></p>
+
+---
+
+<h2 align="center">🚀 Em breve</h2>
+
+<p align="center">
+  Em breve vou abrir aqui <b>projetos públicos</b>: ferramentas práticas para quem vive a rotina de RH e DP,<br>
+  com código aberto para usar, estudar e adaptar. Acompanhe o perfil para ver quando sair o primeiro.
+</p>
 
 ---
 
