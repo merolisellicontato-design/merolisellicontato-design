@@ -35,7 +35,7 @@ Em português, francês e espanhol. Modo escuro.
 
 **Stack:** Cloudflare Workers · D1 (SQLite) · R2 · Workers AI (Whisper + Llama) · Cloudflare Access · HTML/CSS/JS sem framework
 
-> O código-fonte é licenciado e fica em repositório privado. Para conversar sobre implantação, me chame pelo e-mail abaixo.
+> O código-fonte é licenciado e fica em repositório privado. Para conversar sobre implantação, me chame pelos contatos abaixo.
 
 ---
 
@@ -43,4 +43,10 @@ Em português, francês e espanhol. Modo escuro.
 
 `Cloudflare Workers` `D1` `JavaScript` `Python` `Google Apps Script` `Google Sheets` `SQL`
 
-📫 **merolisellicontato@gmail.com**
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A9roli-selli-6a6a432a1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548991924479)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merolisellicontato@gmail.com)
+
+WhatsApp (48) 99192-4479 · merolisellicontato@gmail.com
