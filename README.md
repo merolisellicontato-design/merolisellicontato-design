@@ -20,7 +20,11 @@
 
 <h2 align="center">🙋‍♀️ Sobre mim</h2>
 
-<p align="center">Oi! Sou a <b>Méroli</b>, trabalho com <b>Recursos Humanos</b> em Florianópolis e construo as ferramentas que eu mesma queria ter no dia a dia do RH. Conheço a rotina por dentro, da folha e do ponto até a rescisão e a CCT, e transformo isso em sistema que colaborador, gestor e RH usam de verdade.</p>
+<p align="center">Oi, eu sou a <b>Méroli</b>! Sou <b>RH generalista</b> em Florianópolis. Na prática, isso quer dizer cuidar de tudo ao mesmo tempo: folha, ponto, admissão, rescisão, benefícios, segurança do trabalho, clima, e ainda atender colaborador e gestor de várias unidades.</p>
+
+<p align="center">Durante muito tempo eu fiz isso com planilha, e-mail e mensagem espalhada pra todo lado. Faltava tempo, sobrava retrabalho, e eu sentia que estava sempre apagando incêndio. Então comecei a montar, aos poucos, as ferramentas que eu queria ter pra organizar o meu dia.</p>
+
+<p align="center">Foi assim que nasceu o <b>Rooten</b>. Cada tela dele saiu de um problema que eu vivi, então eu sei o peso que o RH carrega quando precisa dar conta de tudo sozinho. Eu construí o que me ajudaria, e agora quero que ajude outros RHs também.</p>
 
 <p align="center">
 🌱 Criando o <b>Rooten</b>, um portal de RH completo para empresas com várias unidades<br>
