@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340">
+  <defs>
+    <linearGradient id="ceu" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E8EDF2"/>
+      <stop offset="0.55" stop-color="#F6F8FA"/>
+      <stop offset="1" stop-color="#DCE7E2"/>
+    </linearGradient>
+    <linearGradient id="rio" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="m1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8FB3A6"/>
+      <stop offset="1" stop-color="#B9CFC7"/>
+    </linearGradient>
+    <linearGradient id="m2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3E8B75"/>
+      <stop offset="1" stop-color="#1F7A63"/>
+    </linearGradient>
+    <linearGradient id="m3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12314A"/>
+      <stop offset="1" stop-color="#081C2D"/>
+    </linearGradient>
+    <clipPath id="canto"><rect width="1200" height="340" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#canto)">
+    <rect width="1200" height="340" fill="url(#ceu)"/>
+
+    <!-- montanhas ao fundo -->
+    <path d="M0 230 C120 190 210 205 300 180 C390 155 470 200 560 185 C650 170 720 140 820 165 C920 190 1010 150 1100 170 C1150 180 1180 175 1200 172 L1200 340 L0 340 Z" fill="url(#m1)" opacity="0.75"/>
+
+    <!-- colinas do meio -->
+    <path d="M0 262 C140 235 250 250 360 238 C470 226 540 255 640 250 C760 244 840 215 960 232 C1060 246 1130 236 1200 228 L1200 340 L0 340 Z" fill="url(#m2)"/>
+
+    <!-- rio serpenteando -->
+    <path d="M585 250 C610 262 560 272 600 284 C650 298 520 308 590 322 C640 332 700 336 760 340 L520 340 C470 332 540 318 500 306 C455 292 560 282 540 270 C525 262 560 254 585 250 Z" fill="url(#rio)"/>
+
+    <!-- primeiro plano -->
+    <path d="M0 300 C160 282 300 296 430 290 C520 286 500 310 470 340 L0 340 Z" fill="url(#m3)"/>
+    <path d="M1200 296 C1060 280 930 296 820 292 C740 290 760 316 800 340 L1200 340 Z" fill="url(#m3)"/>
+
+    <!-- brotinho do Rooten -->
+    <g transform="translate(1080 58)" stroke="#1F7A63" stroke-width="5" stroke-linecap="round" fill="none" opacity="0.85">
+      <path d="M0 0 H36"/>
+      <path d="M18 0 V40"/>
+      <path d="M18 18 L4 34"/>
+      <path d="M18 18 L32 34"/>
+    </g>
+
+    <text x="600" y="112" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="38" fill="#081C2D" letter-spacing="1">Boas-vindas ao GitHub da Méroli</text>
+    <text x="600" y="156" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="26" fill="#1F7A63">&lt;/&gt;</text>
+  </g>
+</svg>
