@@ -85,25 +85,17 @@
 <div align="center">
 <table>
   <tr><th>👤 Colaborador</th><th>🧑‍💼 Gestor</th><th>🛡️ RH</th></tr>
-  <tr><td>Mural de comunicados</td><td>Admissão CLT, PJ e estágio</td><td>Caixa de solicitações</td></tr>
-  <tr><td>Ficha admissional online</td><td>Férias, afastamento, adiantamento</td><td>Recrutamento em Kanban</td></tr>
-  <tr><td>Canal de denúncia anônimo</td><td>Medidas disciplinares e distrato</td><td>Dashboard de clima</td></tr>
-  <tr><td>Pesquisa de clima e riscos NR-1</td><td>Feedback por áudio → texto com IA</td><td>Motor trabalhista e auditoria</td></tr>
-  <tr><td>Atestado e pedido de demissão</td><td>Ficha dos subordinados</td><td>Envio para a contabilidade</td></tr>
-  <tr><td>Vagas e banco de talentos</td><td></td><td>Gestores e permissões</td></tr>
+  <tr><td>Mural de comunicados</td><td>Pedido de admissão com link/QR para o candidato</td><td>Caixa de solicitações com conversa e status</td></tr>
+  <tr><td>Admissão digital (9 tipos de contratação)</td><td>Férias, afastamento e adiantamento</td><td>Recrutamento em Kanban</td></tr>
+  <tr><td>Canal de denúncia anônimo</td><td>Medidas disciplinares e desligamento</td><td>Painel de clima e riscos NR-1</td></tr>
+  <tr><td>Pesquisa de clima e riscos psicossociais (NR-1)</td><td>Uniforme e EPI</td><td>Perfil comportamental por unidade</td></tr>
+  <tr><td>Envio de atestado e pedido de demissão</td><td>Acompanhamento dos pedidos</td><td>Ficha do colaborador com documentos</td></tr>
+  <tr><td>Vagas e banco de talentos</td><td></td><td>Termo de entrega de EPI e uniforme</td></tr>
+  <tr><td></td><td></td><td>Gestores e permissões</td></tr>
 </table>
 </div>
 
-<p align="center"><sub>Em português, francês e espanhol · modo escuro · o código-fonte é licenciado e fica em repositório privado</sub></p>
-
----
-
-<h2 align="center">🚀 Em breve</h2>
-
-<p align="center">
-  Em breve vou abrir aqui <b>projetos públicos</b>: ferramentas práticas para quem vive a rotina de RH e DP,<br>
-  com código aberto para usar, estudar e adaptar. Acompanhe o perfil para ver quando sair o primeiro.
-</p>
+<p align="center"><sub>O código-fonte é licenciado e fica em repositório privado</sub></p>
 
 ---
 
