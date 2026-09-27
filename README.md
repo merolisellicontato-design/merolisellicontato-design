@@ -31,37 +31,6 @@
 
 ---
 
-<h2 align="center">🌱 Rooten, portal de RH</h2>
-
-<p align="center">
-  O colaborador resolve a vida dele sem precisar ir até o RH, o gestor abre solicitações pelo celular e o RH acompanha tudo num painel.<br>
-  <b><a href="https://portal-rh-demo.portal-rh.workers.dev">▶️ Abrir a demo</a></b> · dados fictícios da "Empresa Demo"
-</p>
-
-<p align="center">
-  <img src="img/home.png" width="49%" alt="Capa do portal">
-  <img src="img/colaborador.png" width="49%" alt="Mural do colaborador">
-</p>
-<p align="center">
-  <img src="img/vagas.png" width="70%" alt="Página pública de vagas">
-</p>
-
-<div align="center">
-<table>
-  <tr><th>👤 Colaborador</th><th>🧑‍💼 Gestor</th><th>🛡️ RH</th></tr>
-  <tr><td>Mural de comunicados</td><td>Admissão CLT, PJ e estágio</td><td>Caixa de solicitações</td></tr>
-  <tr><td>Ficha admissional online</td><td>Férias, afastamento, adiantamento</td><td>Recrutamento em Kanban</td></tr>
-  <tr><td>Canal de denúncia anônimo</td><td>Medidas disciplinares e distrato</td><td>Dashboard de clima</td></tr>
-  <tr><td>Pesquisa de clima e riscos NR-1</td><td>Feedback por áudio → texto com IA</td><td>Motor trabalhista e auditoria</td></tr>
-  <tr><td>Atestado e pedido de demissão</td><td>Ficha dos subordinados</td><td>Envio para a contabilidade</td></tr>
-  <tr><td>Vagas e banco de talentos</td><td></td><td>Gestores e permissões</td></tr>
-</table>
-</div>
-
-<p align="center"><sub>Em português, francês e espanhol · modo escuro · o código-fonte é licenciado e fica em repositório privado</sub></p>
-
----
-
 <h2 align="center">⚖️ Base legal: tudo revisado</h2>
 
 <p align="center">
@@ -91,6 +60,37 @@
   🔄 <b>Sempre atualizado:</b> quando muda a lei, a convenção ou a tabela, tudo é revisado de novo.<br>
   📚 Além dessas, buscamos também manuais oficiais, notas técnicas e orientações de órgãos públicos e do sindicato.
 </p>
+
+---
+
+<h2 align="center">🌱 Rooten, portal de RH</h2>
+
+<p align="center">
+  O colaborador resolve a vida dele sem precisar ir até o RH, o gestor abre solicitações pelo celular e o RH acompanha tudo num painel.<br>
+  <b><a href="https://portal-rh-demo.portal-rh.workers.dev">▶️ Abrir a demo</a></b> · dados fictícios da "Empresa Demo"
+</p>
+
+<p align="center">
+  <img src="img/home.png" width="49%" alt="Capa do portal">
+  <img src="img/colaborador.png" width="49%" alt="Mural do colaborador">
+</p>
+<p align="center">
+  <img src="img/vagas.png" width="70%" alt="Página pública de vagas">
+</p>
+
+<div align="center">
+<table>
+  <tr><th>👤 Colaborador</th><th>🧑‍💼 Gestor</th><th>🛡️ RH</th></tr>
+  <tr><td>Mural de comunicados</td><td>Admissão CLT, PJ e estágio</td><td>Caixa de solicitações</td></tr>
+  <tr><td>Ficha admissional online</td><td>Férias, afastamento, adiantamento</td><td>Recrutamento em Kanban</td></tr>
+  <tr><td>Canal de denúncia anônimo</td><td>Medidas disciplinares e distrato</td><td>Dashboard de clima</td></tr>
+  <tr><td>Pesquisa de clima e riscos NR-1</td><td>Feedback por áudio → texto com IA</td><td>Motor trabalhista e auditoria</td></tr>
+  <tr><td>Atestado e pedido de demissão</td><td>Ficha dos subordinados</td><td>Envio para a contabilidade</td></tr>
+  <tr><td>Vagas e banco de talentos</td><td></td><td>Gestores e permissões</td></tr>
+</table>
+</div>
+
+<p align="center"><sub>Em português, francês e espanhol · modo escuro · o código-fonte é licenciado e fica em repositório privado</sub></p>
 
 ---
 
