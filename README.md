@@ -62,6 +62,37 @@
 
 ---
 
+<h2 align="center">⚖️ Base legal: tudo revisado</h2>
+
+<p align="center">
+  Cada regra, cálculo, formulário e texto do Rooten é revisado com base na legislação trabalhista e nas normas coletivas da categoria.<br>
+  Nada entra por "achismo": se não tem fonte, não vai para o sistema.
+</p>
+
+<div align="center">
+<table>
+  <tr><th>📘 Fonte</th><th>🔎 O que conferimos</th></tr>
+  <tr><td><b>CLT</b> e reforma trabalhista (Lei 13.467/2017)</td><td>Jornada, intervalos, horas extras, adicional noturno, férias, 13º, aviso prévio, rescisão e prazos</td></tr>
+  <tr><td><b>Convenção Coletiva de Trabalho (CCT)</b></td><td>Piso da categoria, reajustes, gorjeta, benefícios, homologação e cláusulas específicas de cada vigência</td></tr>
+  <tr><td><b>Acordos coletivos e individuais</b></td><td>Banco de horas, escalas, compensação de jornada e regras próprias de cada empresa</td></tr>
+  <tr><td><b>Constituição Federal</b> (art. 7º)</td><td>Direitos mínimos do trabalhador que nenhuma regra interna pode reduzir</td></tr>
+  <tr><td><b>Normas Regulamentadoras</b> (NR-1, NR-6, NR-7 e outras)</td><td>Riscos psicossociais, EPI, exames ocupacionais (ASO) e segurança do trabalho</td></tr>
+  <tr><td><b>Previdência e Receita Federal</b></td><td>Tabelas de INSS e IRRF do ano, FGTS, afastamentos e benefícios do INSS</td></tr>
+  <tr><td><b>eSocial</b> e Portaria MTP 671/2021</td><td>Eventos, prazos de envio e registro eletrônico de ponto</td></tr>
+  <tr><td><b>Lei do Estágio</b> (11.788/2008)</td><td>Termo de compromisso, jornada, bolsa, recesso e seguro</td></tr>
+  <tr><td><b>LGPD</b> (Lei 13.709/2018)</td><td>Tratamento e acesso aos dados pessoais dos colaboradores</td></tr>
+  <tr><td><b>Jurisprudência do TST</b></td><td>Súmulas e orientações que definem como a lei é aplicada na prática</td></tr>
+</table>
+</div>
+
+<p align="center">
+  📅 <b>A norma certa para cada data:</b> cada situação é conferida com a regra que valia na época em que aconteceu, respeitando a vigência de cada CCT, acordo e tabela.<br>
+  🔄 <b>Sempre atualizado:</b> quando muda a lei, a convenção ou a tabela, o sistema é revisado.<br>
+  📚 Além dessas, buscamos também manuais oficiais, notas técnicas e orientações de órgãos públicos e do sindicato.
+</p>
+
+---
+
 <h2 align="center">🚀 Em breve</h2>
 
 <p align="center">
