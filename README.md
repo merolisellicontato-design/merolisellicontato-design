@@ -65,8 +65,9 @@
 <h2 align="center">⚖️ Base legal: tudo revisado</h2>
 
 <p align="center">
-  Cada regra, cálculo, formulário e texto do Rooten é revisado com base na legislação trabalhista e nas normas coletivas da categoria.<br>
-  Nada entra por "achismo": se não tem fonte, não vai para o sistema.
+  Todo o meu trabalho, das rotinas de RH e DP às ferramentas que eu crio, é revisado com base na legislação trabalhista e nas normas coletivas da categoria.<br>
+  Cada regra, cálculo, formulário e texto passa por essa conferência.<br>
+  Nada entra por "achismo": se não tem fonte, não entra.
 </p>
 
 <div align="center">
@@ -87,7 +88,7 @@
 
 <p align="center">
   📅 <b>A norma certa para cada data:</b> cada situação é conferida com a regra que valia na época em que aconteceu, respeitando a vigência de cada CCT, acordo e tabela.<br>
-  🔄 <b>Sempre atualizado:</b> quando muda a lei, a convenção ou a tabela, o sistema é revisado.<br>
+  🔄 <b>Sempre atualizado:</b> quando muda a lei, a convenção ou a tabela, tudo é revisado de novo.<br>
   📚 Além dessas, buscamos também manuais oficiais, notas técnicas e orientações de órgãos públicos e do sindicato.
 </p>
 
