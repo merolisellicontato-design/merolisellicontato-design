@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="img/banner.svg" width="100%" alt="Boas-vindas ao GitHub da Méroli">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/banner-dark.svg">
+    <img src="img/banner.svg" width="100%" alt="Boas-vindas ao GitHub da Méroli">
+  </picture>
 </p>
 
 <p align="center">
