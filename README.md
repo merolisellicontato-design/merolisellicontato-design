@@ -142,6 +142,11 @@
 <p align="center"><sub>Abrir vaga com aprovação dentro do portal · pedido de admissão que gera o link e o QR code para o candidato</sub></p>
 
 <p align="center">
+  <img src="img/gestor/feedback-ia.png" width="45%" alt="Feedback gravado, transcrito e organizado pela IA">
+</p>
+<p align="center"><sub>Feedback gravado com autorização do colaborador: a conversa vira texto e a IA separa pontos positivos, pontos a melhorar e as ações do mês. O gestor revisa antes de salvar</sub></p>
+
+<p align="center">
   <img src="img/gestor/perfil-equipe.png" width="49%" alt="Perfil comportamental da equipe">
   <img src="img/gestor/perfil-pessoa.png" width="49%" alt="Guia de feedback por perfil">
 </p>
@@ -187,6 +192,12 @@
   <img src="img/rh/nr1.png" width="49%" alt="Avaliação de riscos psicossociais NR-1">
 </p>
 <p align="center"><sub>Perfil comportamental por unidade · riscos psicossociais (NR-1) por dimensão, para o PGR</sub></p>
+
+<p align="center">
+  <img src="img/colab/candidatura.png" width="22%" alt="Candidatura pelo Trabalhe conosco">
+  <img src="img/rh/triagem-vaga.png" width="72%" alt="Triagem dos currículos por vaga">
+</p>
+<p align="center"><sub>O candidato se inscreve pelo Trabalhe conosco com o currículo e cai direto na vaga certa · triagem por vaga: recebidos, triagem, entrevista e finalizados</sub></p>
 
 <p align="center">
   <img src="img/rh/kanban.png" width="49%" alt="Recrutamento em Kanban">
