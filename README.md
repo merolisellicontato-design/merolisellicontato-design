@@ -27,7 +27,7 @@
 <p align="center">Foi assim que nasceu o <b>Rooten</b>. Cada tela dele saiu de um problema que eu vivi, então eu sei o peso que o RH carrega quando precisa dar conta de tudo sozinho. Eu construí o que me ajudaria, e agora quero que ajude outros RHs também.</p>
 
 <p align="center">
-🌱 Criando o <b>Rooten</b>, um portal de RH completo para empresas com várias unidades<br>
+🌱 Criando o <b>Rooten</b>, um portal de RH completo para empresas multiunidade e multi-CNPJ<br>
 📋 Rotinas de folha, admissão, desligamento, férias e benefícios<br>
 🧠 Clima organizacional, riscos psicossociais (NR-1) e segurança do trabalho<br>
 ⚙️ Automação com Cloudflare Workers, Google Apps Script e Python
@@ -70,7 +70,7 @@
 <h2 align="center">🌱 Rooten, portal de RH</h2>
 
 <p align="center">
-  Uma plataforma de RH para empresas com várias unidades. O colaborador resolve a vida dele pelo celular, o gestor pede e acompanha tudo sem WhatsApp, e o RH enxerga a operação inteira num painel.<br>
+  Uma plataforma de RH para empresas multiunidade e multi-CNPJ. O colaborador resolve a vida dele pelo celular, o gestor pede e acompanha tudo sem WhatsApp, e o RH enxerga a operação inteira num painel.<br>
   <b><a href="https://portal-rh-demo.portal-rh.workers.dev">▶️ Abrir a demo</a></b> · dados fictícios da "Empresa Demo"
 </p>
 
@@ -85,7 +85,7 @@
 <table>
   <tr>
     <td width="50%"><b>🧑‍💼 Feito por quem é do RH</b><br>Cada tela saiu de um problema real do dia a dia de um RH generalista.</td>
-    <td width="50%"><b>🏬 Pensado para várias unidades</b><br>Gestor em cada unidade, RH centralizado, cada um vendo só o que é seu.</td>
+    <td width="50%"><b>🏬 Multiunidade e multi-CNPJ</b><br>Gestor em cada unidade, RH centralizado, cada um vendo só o que é seu.</td>
   </tr>
   <tr>
     <td><b>⚖️ Regra trabalhista dentro do sistema</b><br>Na admissão, o salário é conferido pelo piso da convenção coletiva da data de início, proporcional à jornada.</td>
@@ -113,6 +113,17 @@
   <img src="img/colab/denuncia.png" width="16%" alt="Canal de denúncia anônimo">
 </p>
 <p align="center"><sub>Entrada por CPF · atalhos grandes · atestado já preenchido · recadastramento em formato de conferência · holerite explicado · denúncia anônima</sub></p>
+
+<h3 align="center">📝 Admissão digital</h3>
+
+<p align="center">
+  <img src="img/colab/admissao-tipos.png" width="60%" alt="Escolha do tipo de contratação">
+  <img src="img/colab/admissao-form-celular.png" width="22%" alt="Formulário de admissão no celular">
+</p>
+<p align="center">
+  <img src="img/colab/admissao-form.png" width="60%" alt="Formulário de admissão em etapas">
+</p>
+<p align="center"><sub>9 tipos de contratação, cada um com a sua base legal · o candidato preenche pelo celular, em 6 etapas, com foto e documentos · o que ele digita fica salvo no aparelho por 7 dias</sub></p>
 
 <h3 align="center">🧑‍💼 Para o gestor</h3>
 
@@ -155,15 +166,27 @@
 </p>
 <p align="center"><sub>Ficha única do colaborador, com edição campo a campo e histórico · documentos organizados por pessoa, categoria e mês, com download em ZIP</sub></p>
 
+<h4 align="center">📊 Pesquisa de clima</h4>
+
+<p align="center">
+  <img src="img/rh/clima.png" width="49%" alt="Pontos de atenção, respostas, satisfação e eNPS">
+  <img src="img/rh/clima-lideranca.png" width="49%" alt="Liderança em 3 camadas por unidade">
+</p>
+<p align="center">
+  <img src="img/rh/clima-favorabilidade.png" width="49%" alt="Favorabilidade por dimensão">
+  <img src="img/rh/clima-mapa.png" width="49%" alt="Mapa de calor por unidade">
+</p>
+<p align="center">
+  <img src="img/rh/clima-enps.png" width="49%" alt="eNPS por unidade">
+  <img src="img/rh/clima-participacao.png" width="49%" alt="Participação por unidade">
+</p>
+<p align="center"><sub>Pontos de atenção destacados automaticamente · liderança em 3 camadas (imediata, gerência e direção) · favorabilidade por dimensão · mapa de calor por unidade · eNPS e participação por unidade · grupos com menos de 5 respostas não aparecem</sub></p>
+
 <p align="center">
   <img src="img/rh/perfil.png" width="49%" alt="Painel do perfil comportamental por unidade">
-  <img src="img/rh/clima.png" width="49%" alt="Relatório da pesquisa de clima">
-</p>
-<p align="center">
-  <img src="img/rh/clima-mapa.png" width="49%" alt="Mapa do clima por unidade">
   <img src="img/rh/nr1.png" width="49%" alt="Avaliação de riscos psicossociais NR-1">
 </p>
-<p align="center"><sub>Perfil comportamental por unidade · pesquisa de clima com eNPS e pontos de atenção · mapa por unidade · riscos psicossociais (NR-1)</sub></p>
+<p align="center"><sub>Perfil comportamental por unidade · riscos psicossociais (NR-1) por dimensão, para o PGR</sub></p>
 
 <p align="center">
   <img src="img/rh/kanban.png" width="49%" alt="Recrutamento em Kanban">
@@ -201,7 +224,7 @@
   <img src="img/vagas.png" width="70%" alt="Página pública de vagas">
 </p>
 
-<p align="center"><sub>O código-fonte é licenciado e fica em repositório privado</sub></p>
+<p align="center"><sub>Todas as telas e informações mostradas são fictícias, criadas para demonstração · o código-fonte é licenciado e fica em repositório privado</sub></p>
 
 ---
 
