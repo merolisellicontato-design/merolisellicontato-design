@@ -239,7 +239,6 @@
   <img src="https://img.shields.io/badge/Workers_AI-081C2D?style=for-the-badge&logo=cloudflare&logoColor=F38020">
   <img src="https://img.shields.io/badge/Apps_Script-081C2D?style=for-the-badge&logo=googleappsscript&logoColor=4285F4">
   <img src="https://img.shields.io/badge/Google_Sheets-081C2D?style=for-the-badge&logo=googlesheets&logoColor=34A853">
-  <img src="https://img.shields.io/badge/Claude_Code-081C2D?style=for-the-badge&logo=claude&logoColor=D97757">
 </p>
 
 ---
