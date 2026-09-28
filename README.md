@@ -76,7 +76,7 @@
 
 <p align="center">
   <img src="img/home.png" width="49%" alt="Capa do portal">
-  <img src="img/colaborador.png" width="49%" alt="Mural do colaborador">
+  <img src="img/colaborador.png" width="49%" alt="Tela inicial do colaborador com o mural">
 </p>
 <p align="center">
   <img src="img/vagas.png" width="70%" alt="Página pública de vagas">
