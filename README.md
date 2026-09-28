@@ -70,7 +70,7 @@
 <h2 align="center">🌱 Rooten, portal de RH</h2>
 
 <p align="center">
-  O colaborador resolve a vida dele sem precisar ir até o RH, o gestor abre solicitações pelo celular e o RH acompanha tudo num painel.<br>
+  Uma plataforma de RH para empresas com várias unidades. O colaborador resolve a vida dele pelo celular, o gestor pede e acompanha tudo sem WhatsApp, e o RH enxerga a operação inteira num painel.<br>
   <b><a href="https://portal-rh-demo.portal-rh.workers.dev">▶️ Abrir a demo</a></b> · dados fictícios da "Empresa Demo"
 </p>
 
@@ -78,22 +78,61 @@
   <img src="img/home.png" width="49%" alt="Capa do portal">
   <img src="img/colaborador.png" width="49%" alt="Tela inicial do colaborador com o mural">
 </p>
+
+<h3 align="center">⭐ O que faz diferença</h3>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%"><b>🧑‍💼 Feito por quem é do RH</b><br>Cada tela saiu de um problema real do dia a dia de um RH generalista.</td>
+    <td width="50%"><b>🏬 Pensado para várias unidades</b><br>Gestor em cada unidade, RH centralizado, cada um vendo só o que é seu.</td>
+  </tr>
+  <tr>
+    <td><b>⚖️ Regra trabalhista dentro do sistema</b><br>Na admissão, o salário é conferido pelo piso da convenção coletiva da data de início, proporcional à jornada.</td>
+    <td><b>💬 Tudo conversado no mesmo lugar</b><br>Cada pedido tem protocolo, conversa e andamento que o gestor acompanha.</td>
+  </tr>
+  <tr>
+    <td><b>📱 Entrada simples, sem aplicativo</b><br>CPF e data de nascimento, por link ou QR code. Quem é desligado perde o acesso no mesmo dia.</td>
+    <td><b>🔒 Anonimato de verdade</b><br>Denúncia, clima e NR-1 não registram quem respondeu, e grupos com menos de 5 respostas não aparecem.</td>
+  </tr>
+  <tr>
+    <td><b>📄 Documento pronto para assinar</b><br>Termo de EPI (NR-6) e de uniforme, ficha de admissão e pedidos saem gerados a partir do que já está no sistema.</td>
+    <td><b>🛡️ LGPD levada a sério</b><br>Histórico de acessos, dados sensíveis só para quem precisa e documentos que abrem só com login.</td>
+  </tr>
+</table>
+</div>
+
+<h3 align="center">👤 Para o colaborador, no celular</h3>
+
 <p align="center">
-  <img src="img/vagas.png" width="70%" alt="Página pública de vagas">
+  <img src="img/colab/entrada.png" width="16%" alt="Entrada com CPF e data de nascimento">
+  <img src="img/colab/inicio.png" width="16%" alt="Tela inicial com atalhos">
+  <img src="img/colab/atestado.png" width="16%" alt="Envio de atestado já preenchido">
+  <img src="img/colab/recadastramento.png" width="16%" alt="Recadastramento em formato de conferência">
+  <img src="img/colab/holerite.png" width="16%" alt="Holerite explicado">
+  <img src="img/colab/denuncia.png" width="16%" alt="Canal de denúncia anônimo">
 </p>
+<p align="center"><sub>Entrada por CPF · atalhos grandes · atestado já preenchido · recadastramento em formato de conferência · holerite explicado · denúncia anônima</sub></p>
+
+<!-- GESTOR_E_RH -->
 
 <div align="center">
 <table>
   <tr><th>👤 Colaborador</th><th>🧑‍💼 Gestor</th><th>🛡️ RH</th></tr>
-  <tr><td>Mural de comunicados</td><td>Pedido de admissão com link/QR para o candidato</td><td>Caixa de solicitações com conversa e status</td></tr>
-  <tr><td>Admissão digital (9 tipos de contratação)</td><td>Férias, afastamento e adiantamento</td><td>Recrutamento em Kanban</td></tr>
-  <tr><td>Canal de denúncia anônimo</td><td>Medidas disciplinares e desligamento</td><td>Painel de clima e riscos NR-1</td></tr>
-  <tr><td>Pesquisa de clima e riscos psicossociais (NR-1)</td><td>Uniforme e EPI</td><td>Perfil comportamental por unidade</td></tr>
-  <tr><td>Envio de atestado e pedido de demissão</td><td>Acompanhamento dos pedidos</td><td>Ficha do colaborador com documentos</td></tr>
-  <tr><td>Vagas e banco de talentos</td><td></td><td>Termo de entrega de EPI e uniforme</td></tr>
-  <tr><td></td><td></td><td>Gestores e permissões</td></tr>
+  <tr><td>Mural de comunicados, admissões e aniversariantes</td><td>Pedido de admissão com link/QR para o candidato</td><td>Caixa de solicitações com conversa e status</td></tr>
+  <tr><td>Admissão digital (9 tipos de contratação)</td><td>Abrir vaga, com aprovação no portal</td><td>Recrutamento em Kanban</td></tr>
+  <tr><td>Canal de denúncia anônimo</td><td>Férias, afastamento e adiantamento</td><td>Painel de clima e riscos NR-1</td></tr>
+  <tr><td>Pesquisa de clima e riscos psicossociais (NR-1)</td><td>Medidas disciplinares e desligamento</td><td>Perfil comportamental por unidade</td></tr>
+  <tr><td>Atestado, recadastramento e pedido de demissão</td><td>Perfil comportamental da equipe</td><td>Ficha do colaborador com documentos</td></tr>
+  <tr><td>Holerite explicado, benefícios e manuais</td><td>Uniforme e EPI</td><td>Termo de entrega de EPI e uniforme</td></tr>
+  <tr><td>Vagas e banco de talentos</td><td>Acompanhamento dos pedidos</td><td>Documentos de SST por ano</td></tr>
+  <tr><td></td><td></td><td>Histórico de acessos e gestores</td></tr>
 </table>
 </div>
+
+<p align="center">
+  <img src="img/vagas.png" width="70%" alt="Página pública de vagas">
+</p>
 
 <p align="center"><sub>O código-fonte é licenciado e fica em repositório privado</sub></p>
 
