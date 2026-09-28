@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/m%C3%A9roli-selli-6a6a432a1"><img src="https://img.shields.io/badge/LinkedIn-081C2D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/meroliselli"><img src="https://img.shields.io/badge/LinkedIn-081C2D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://wa.me/5548991924479"><img src="https://img.shields.io/badge/WhatsApp-081C2D?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="mailto:merolisellicontato@gmail.com"><img src="https://img.shields.io/badge/E--mail-081C2D?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <a href="https://portal-rh-demo.portal-rh.workers.dev"><img src="https://img.shields.io/badge/Demo_Rooten-1F7A63?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Demo do Rooten"></a>
