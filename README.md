@@ -120,9 +120,9 @@
 
 <p align="center">
   <img src="img/gestor/conversa.png" width="49%" alt="Solicitação com conversa e andamento">
-  <img src="img/gestor/lista.png" width="49%" alt="Minhas solicitações">
+  <img src="img/gestor/painel.png" width="49%" alt="Meu painel do gestor">
 </p>
-<p align="center"><sub>Cada pedido tem protocolo, conversa com o RH e o andamento registrado ("Status alterado pelo RH: Aberta → Em andamento")</sub></p>
+<p align="center"><sub>Cada pedido tem protocolo, conversa com o RH e o andamento registrado · painel do gestor com os pedidos, as respostas novas do RH e os atalhos</sub></p>
 
 <p align="center">
   <img src="img/gestor/abrir-vaga.png" width="49%" alt="Abrir vaga com aprovação">
