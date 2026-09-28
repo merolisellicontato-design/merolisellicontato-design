@@ -114,7 +114,74 @@
 </p>
 <p align="center"><sub>Entrada por CPF · atalhos grandes · atestado já preenchido · recadastramento em formato de conferência · holerite explicado · denúncia anônima</sub></p>
 
-<!-- GESTOR_E_RH -->
+<h3 align="center">🧑‍💼 Para o gestor</h3>
+
+<p align="center">O gestor pede, conversa com o RH e acompanha cada etapa sem precisar de WhatsApp.</p>
+
+<p align="center">
+  <img src="img/gestor/conversa.png" width="49%" alt="Solicitação com conversa e andamento">
+  <img src="img/gestor/lista.png" width="49%" alt="Minhas solicitações">
+</p>
+<p align="center"><sub>Cada pedido tem protocolo, conversa com o RH e o andamento registrado ("Status alterado pelo RH: Aberta → Em andamento")</sub></p>
+
+<p align="center">
+  <img src="img/gestor/abrir-vaga.png" width="49%" alt="Abrir vaga com aprovação">
+  <img src="img/gestor/admissao-qr.png" width="49%" alt="Pedido de admissão gerando link e QR code">
+</p>
+<p align="center"><sub>Abrir vaga com aprovação dentro do portal · pedido de admissão que gera o link e o QR code para o candidato</sub></p>
+
+<p align="center">
+  <img src="img/gestor/perfil-equipe.png" width="49%" alt="Perfil comportamental da equipe">
+  <img src="img/gestor/perfil-pessoa.png" width="49%" alt="Guia de feedback por perfil">
+</p>
+<p align="center"><sub>Perfil comportamental da equipe dele, com guia de como dar feedback para cada pessoa</sub></p>
+
+<p align="center">
+  <img src="img/gestor/admissao-piso.png" width="70%" alt="Validação do salário pelo piso da convenção">
+</p>
+<p align="center"><sub>O salário é conferido pelo piso da convenção coletiva na data de início, proporcional à jornada</sub></p>
+
+<h3 align="center">🛡️ Para o RH</h3>
+
+<p align="center">
+  <img src="img/rh/chamado.png" width="49%" alt="Chamado com conversa">
+  <img src="img/rh/requisicao-vaga.png" width="49%" alt="Aprovação de requisição de vaga">
+</p>
+<p align="center"><sub>Caixa de solicitações com conversa, anotação interna e status · aprovação de vaga que já cria a vaga no recrutamento</sub></p>
+
+<p align="center">
+  <img src="img/rh/ficha.png" width="49%" alt="Ficha única do colaborador">
+  <img src="img/rh/documentos.png" width="49%" alt="Documentos organizados por pessoa">
+</p>
+<p align="center"><sub>Ficha única do colaborador, com edição campo a campo e histórico · documentos organizados por pessoa, categoria e mês, com download em ZIP</sub></p>
+
+<p align="center">
+  <img src="img/rh/perfil.png" width="49%" alt="Painel do perfil comportamental por unidade">
+  <img src="img/rh/clima.png" width="49%" alt="Relatório da pesquisa de clima">
+</p>
+<p align="center">
+  <img src="img/rh/clima-mapa.png" width="49%" alt="Mapa do clima por unidade">
+  <img src="img/rh/nr1.png" width="49%" alt="Avaliação de riscos psicossociais NR-1">
+</p>
+<p align="center"><sub>Perfil comportamental por unidade · pesquisa de clima com eNPS e pontos de atenção · mapa por unidade · riscos psicossociais (NR-1)</sub></p>
+
+<p align="center">
+  <img src="img/rh/kanban.png" width="49%" alt="Recrutamento em Kanban">
+  <img src="img/rh/colaboradores.png" width="49%" alt="Base de colaboradores">
+</p>
+<p align="center"><sub>Recrutamento em Kanban · base de colaboradores</sub></p>
+
+<p align="center">
+  <img src="img/rh/termo-epi.png" width="49%" alt="Termo de entrega de EPI">
+  <img src="img/rh/termo-epi-pdf.png" width="49%" alt="PDF do termo de EPI">
+</p>
+<p align="center"><sub>Termo de entrega de EPI (NR-6) e uniforme: o RH confere e sai o PDF pronto para assinatura</sub></p>
+
+<p align="center">
+  <img src="img/rh/sst.png" width="49%" alt="Documentos de SST por ano">
+  <img src="img/rh/historico.png" width="49%" alt="Histórico de acessos">
+</p>
+<p align="center"><sub>PGR, PCMSO e LTCAT organizados por ano · histórico de acessos dos colaboradores (LGPD)</sub></p>
 
 <div align="center">
 <table>
